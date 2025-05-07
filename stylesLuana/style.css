@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root{
+    --back-cor: #3495AA;
+    --primeira-cor: #22D4FD;
+    --cor-hover: #0083A1;
+
+    --fonte-principal: 'Barlow', sans-serif;
+    --segunda-fonte: 'Montserrat Alternates', sans-serif;
+
+}
+
+body{
+    background-color: var(--back-cor);
+    color: var(--primeira-cor);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecalho{
+    width: 1200px;
+    margin: 51px auto 70px auto;
+}
+
+.cabecalho_menu{
+    color: var(--primeira-cor);
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: var(--segunda-fonte);
+    z-index: 1;
+}
+
+.cabecalho_menu:hover{
+    color: var(--cor-hover);
+    text-decoration: underline;
+    
+}
+
+.cabecalho_menu1{
+    color: var(--primeira-cor);
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: var(--segunda-fonte);
+    position: relative;
+    left: 40%;
+
+}
+
+.cabecalho_menu1:hover{
+    color: var(--cor-hover);
+    text-decoration: underline;
+    
+}
+
+.cabecalho_menu2{
+    color: var(--primeira-cor);
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: var(--segunda-fonte);
+    position: relative;
+    left: 48%;
+
+}
+
+.cabecalho_menu2:hover{
+    color: var(--cor-hover);
+    text-decoration: underline;
+    
+}
+
+.cabecalho_menu3{
+    color: var(--primeira-cor);
+    text-decoration: none;
+    font-size: 27px;
+    font-weight: 600;
+    font-family: var(--segunda-fonte);
+    position: relative;
+    left: 56%;
+
+}
+
+.cabecalho_menu3:hover{
+    color: var(--cor-hover);
+    text-decoration: underline;
+    
+}
+
+.apresentacao{
+    width: 1200px;
+    margin: 0px auto 30px auto;
+    
+}
+
+.apresentacao_contexto_img1{
+    width: 602px;
+    position: absolute;
+    left: 62%;
+    top: 20%;
+    z-index: auto;
+
+}
+
+.apresentacao_contexto_img2{
+    width: 602px;
+    position: absolute;
+    left: 70%;
+    top: 65%;
+    z-index: 1;
+}
+
+.apresentacao_contexto_titulo{
+    color: var(--primeira-cor);
+    font-family: var(--segunda-fonte);
+    font-size: 50px;
+    font-weight: 500;
+    position: relative;
+    left: 20%;
+    z-index: 1;
+}
+
+.apresentacao_contexto_texto{
+    font-size: 20px;
+    line-height: 25px;
+    color: white;
+    font-family: var(--segunda-fonte);
+    text-align: left;
+    position: absolute;
+    left: 8%;
+    right: 39%;
+
+
+}
+
+.apresentacao_links_subtitulo{
+    font-size: 30px;
+    font-family: var(--fonte-principal);
+    position: relative;
+    left: 22%;
+
+}
+
+
+.apresentacao_links{
+    display: grid;
+    grid-template-rows: 50px;
+    justify-content: center;
+    font-family: var(--segunda-fonte);
+    position: absolute;
+    right: 49%;
+    top: 70%;
+
+}
+
+.apresentacao_links_link{
+    border: 3px solid var(--primeira-cor);
+    padding: 5px 0px;
+    border-radius: 4px;
+    text-align:center ;
+    font-size: 30px;
+    font-weight: 400;
+    width: 400px;
+    text-decoration: none;
+    color: var(--primeira-cor);
+    font-family: var(--segunda-fonte);
+}
+
+.apresentacao_links_subtitulo{
+    font-family: var(--segunda-fonte);
+    font-weight: 600;
+    font-size: 30px;
+    position: relative;
+    left: 20%;
+}
+
+.detalhe1{
+    position: absolute;
+    top: 22%;
+    left: 19%;
+    z-index: auto;
+
+}
+
+.detalhe2{
+    position: absolute;
+    left: 47%;
+    top: 80%;
+
+}
+
+
+.apresentacao_links_link:hover{
+    background-color: var(--cor-hover);
+}
+
+.barra_de_menu{
+    position: absolute;
+    top: 5%;
+    right: 4%;
+    z-index: -1;
+
+}
