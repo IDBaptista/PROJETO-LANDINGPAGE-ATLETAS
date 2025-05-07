@@ -8,8 +8,8 @@ Com o propósito de nos auxiliar a desenvolver nossas primeiras landing pages, t
 # IMAGENS, PARTICIPAÇÕES E LINKS
 
 ## DESENVOLVIMENTO:
-![/print/rayssa.png](https://github.com/IDBaptista/PROJETO-LANDINGPAGE-ATLETAS/blob/main/print/luana.png)
 ![print bala](/print/bala.png)
 ![print rosa](/print/rosa.png)
 ![print luana](/print/luana.png)
+![print](/print/rosa.png)
 
