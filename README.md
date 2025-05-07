@@ -8,8 +8,8 @@ Com o propósito de nos auxiliar a desenvolver nossas primeiras landing pages, t
 # IMAGENS, PARTICIPAÇÕES E LINKS
 
 ## DESENVOLVIMENTO:
-![print](../print/rayssa.png)
-![print](../print/bala.png)
-![print](../print/rosa.png)
-![print](../print/luana.png)
+![print rayssa](/print/rayssa.png)
+![print bala](/print/bala.png)
+![print rosa](/print/rosa.png)
+![print luana](/print/luana.png)
 
