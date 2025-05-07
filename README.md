@@ -10,6 +10,6 @@ Com o propósito de nos auxiliar a desenvolver nossas primeiras landing pages, t
 ## DESENVOLVIMENTO:
 ![print](/print/bala.png)
 ![print](/print/rosa.png)
-![print luana](/print/luana.png)
+![print](/print/luana.png)
 ![print](/print/rayssa.png)
 
